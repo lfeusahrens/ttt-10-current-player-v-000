@@ -1,5 +1,5 @@
 def turn_count(board)
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-  board.each do |"  "|
+  board.each do |arrays|
   end
 end
