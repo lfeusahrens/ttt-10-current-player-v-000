@@ -5,5 +5,4 @@ def turn_count(board)
   end
     token == "X"
     turn += 1
-  end
 end
