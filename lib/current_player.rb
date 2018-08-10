@@ -1,6 +1,6 @@
 def turn_count(board)
   turn = 0
-  board.each do |turns|
+  board.each do |token|
     
   end
 end
