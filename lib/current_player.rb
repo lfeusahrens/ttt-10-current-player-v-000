@@ -1,4 +1,4 @@
 def turn_count(board)
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-  board.each 
+  board.each do
 end
